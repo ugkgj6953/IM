@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    ;
+    background-color: red;
+    border-radius: 30px;
+}
+
+i {
+    color: red;
+}
+
+
+h2 {
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+
+
+
+/* .text {
+    color: red;
+    background-color: blue;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    border: 5px dashed red;
+    border-radius: 30px;
+} */
+
+
+
+
